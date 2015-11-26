@@ -1,5 +1,0 @@
-./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_OuEQLjwBIPI.mp4 /vccscratch/cabafd/output_features/v_OuEQLjwBIPI.mp4.feature.gz
-./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_CuZpm0Il6YM.mp4 /vccscratch/cabafd/output_features/v_CuZpm0Il6YM.mp4.feature.gz
-./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_6yD5jZn6SEs.mp4 /vccscratch/cabafd/output_features/v_6yD5jZn6SEs.mp4.feature.gz
-./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_f2DS_AVorrY.mp4 /vccscratch/cabafd/output_features/v_f2DS_AVorrY.mp4.feature.gz
-./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_q8-iXvYyCGg.mp4 /vccscratch/cabafd/output_features/v_q8-iXvYyCGg.mp4.feature.gz
