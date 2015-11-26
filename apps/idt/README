@@ -1,0 +1,7 @@
+Hello
+-----
+This folder contains a binary file to extract improved trajectory 
+features from Wang et al. (https://lear.inrialpes.fr/people/wang/improved_trajectories).
+To enable the binaries you need to run the following command:
+
+source enable.rc

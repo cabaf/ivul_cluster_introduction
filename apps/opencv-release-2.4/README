@@ -1,0 +1,5 @@
+To uses this pre-compiled version of
+opencv you need to add this path to 
+the LD_LIBRARY_PATH as follows:
+
+export LD_LIBRARY_PATH=`pwd`/lib
