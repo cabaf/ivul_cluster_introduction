@@ -1,0 +1,31 @@
+Unloading module python version 2.7.9
+Unloading module intel version 15
+Current intel version: none
+Loading module python version 2.7.9
+Loading module intel version 15
+Current intel version: none
+Loading module ffmpeg version 2.8
+Loading module gcc version 4.8.1
+Initial gcc version: 4.4.7
+Current gcc version: 4.8.1
+apps/idt/idt: error while loading shared libraries: libopencv_core.so.2.4: cannot open shared object file: No such file or directory
+Loading module ffmpeg version 2.8
+Loading module gcc version 4.8.1
+Initial gcc version: 4.4.7
+Current gcc version: 4.8.1
+apps/idt/idt: error while loading shared libraries: libopencv_core.so.2.4: cannot open shared object file: No such file or directory
+Loading module ffmpeg version 2.8
+Loading module gcc version 4.8.1
+Initial gcc version: 4.4.7
+Current gcc version: 4.8.1
+apps/idt/idt: error while loading shared libraries: libopencv_core.so.2.4: cannot open shared object file: No such file or directory
+Loading module ffmpeg version 2.8
+Loading module gcc version 4.8.1
+Initial gcc version: 4.4.7
+Current gcc version: 4.8.1
+apps/idt/idt: error while loading shared libraries: libopencv_core.so.2.4: cannot open shared object file: No such file or directory
+Loading module ffmpeg version 2.8
+Loading module gcc version 4.8.1
+Initial gcc version: 4.4.7
+Current gcc version: 4.8.1
+apps/idt/idt: error while loading shared libraries: libopencv_core.so.2.4: cannot open shared object file: No such file or directory

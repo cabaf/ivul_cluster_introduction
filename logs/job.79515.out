@@ -1,0 +1,5 @@
+./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_AyaS46-OPPU.mp4 /vccscratch/cabafd/output_features/v_AyaS46-OPPU.mp4.feature.gz
+./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_a-6rpItrRSk.mp4 /vccscratch/cabafd/output_features/v_a-6rpItrRSk.mp4.feature.gz
+./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_ueDoskgg2yw.mp4 /vccscratch/cabafd/output_features/v_ueDoskgg2yw.mp4.feature.gz
+./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_oFku30m99do.mp4 /vccscratch/cabafd/output_features/v_oFku30m99do.mp4.feature.gz
+./extract_idt.sh /vccscratch/cabafd/datasets/activitynet_v1.2/v_MiOJxYa5Nt4.mp4 /vccscratch/cabafd/output_features/v_MiOJxYa5Nt4.mp4.feature.gz
