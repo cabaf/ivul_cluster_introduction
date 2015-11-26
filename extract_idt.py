@@ -14,7 +14,7 @@ if __name__ == "__main__":
     parser.add_argument("task_array")
     args = parser.parse_args()
     with open(args.task_array, "r") as fobj:
-        data = json.load(fobj)[args.id]
+        data = json.load(fobj)["%d" % args.id]
     for x in data:
         cmd = "./extract_idt.sh %s %s" % (x["video_filename"], x["feature_filename"])
         print cmd
