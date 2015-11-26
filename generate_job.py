@@ -56,7 +56,7 @@ if __name__ == "__main__":
         fobj.write(json.dumps(v_processed))
 
     # Creates slurm job file
-    cmd = "python extract_idt.py $SLURM_ARRAY_TASK_ID %s" % output_list_filename
+    cmd = "python extract_idt.py ${SLURM_ARRAY_TASK_ID} %s" % output_list_filename
     template_job = slurm_job_template(args.jobid, args.nr_jobs, cmd)
     with open(args.job_filename, "w") as fobj:
         fobj.write(template_job)
